@@ -18,3 +18,9 @@ Este é um aplicativo em Go que faz o monitoramento de sites. Ele verifica o có
 ```bash
 git clone https://github.com/CaueFoyth/website-monitoring.git
 cd website-monitoring
+```
+
+### 2. Rodar aplicação
+```bash
+go run app.go
+```
